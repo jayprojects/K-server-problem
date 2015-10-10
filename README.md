@@ -2,7 +2,7 @@ Course: Dynamic programming
 Fall 2012
 Project 4 - K-Server Problem
 
-Given multiple server and client, the goal of the algorithm is to minimize the total distance of all servers, relative to the total optimal distance if entire sequence of requests was known in advance.
+Given multiple servers and clients, the goal of the algorithm is to minimize the total distance of all servers, relative to the total optimal distance if entire sequence of requests was known in advance.
 
 
 Program:
